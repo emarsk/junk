@@ -269,5 +269,3 @@ High-definition Binaural spatialization engine.
 # [Ironbridge Electronics - Ambisonic Auralizer Tools](http://www.ironbridge-elt.com/products/aat.html)
 
 *32 bit, I didn't check this*
-
-> Written with [StackEdit](https://stackedit.io/).
