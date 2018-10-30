@@ -248,6 +248,8 @@ Video tutorials and example REAPER sessions are available.
 
 High-definition Binaural spatialization engine.
 
+**Not ambisonics** (I suppose).
+
 -   OS : Windows/MacOS
 -   Plugin format : VST
 -   Ambisonics : *no*
