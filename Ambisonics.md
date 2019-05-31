@@ -1,6 +1,25 @@
 A list of gratis and/or libre Ambisonics and binaural plugins (tested - or not - in REAPER on Windows 10).
+- *2019-05-31: + S3A VISR*
 - *2018-10-30: + Anaglyph*
 - *2018-whatever : first draft*
+
+# [S3A Spatial Audio - VISR Production Suite](https://www.s3a-spatialaudio.org/plugins)
+
+*Not tested yet.*
+
+*(Will be)* Free and open-source.
+
+-   OS : Windows/MacOS
+-   Plugin format : VST3 *(AU and AAX are planned)*
+-   Ambisonics order : *?*
+-   Channel ordering : ACN
+-   Normalisation : *?*
+-   GUI style : full sphere, perspective
+-   Plugins:
+    -   Object Editor
+    -   Scene Master
+    -   Loudspeaker Renderer
+    -   Binaural Renderer
 
 # [The Ambisonic Toolkit](http://www.ambisonictoolkit.net/)
 
